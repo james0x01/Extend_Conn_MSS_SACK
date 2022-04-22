@@ -1,0 +1,4 @@
+[package]
+script_dir = scripts
+description = Extend the conn.log to add MSS and SACK information.
+tags = conn, extending logs
